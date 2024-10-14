@@ -11,3 +11,6 @@ c <- a + b
 
 # Branch change
 a <- 10
+
+# code 3 in branch1
+c <- a + b
