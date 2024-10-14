@@ -8,3 +8,6 @@ b <- 2
 
 # code 3 in master
 c <- a + b
+
+# Branch change
+a <- 10
